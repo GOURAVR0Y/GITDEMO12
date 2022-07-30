@@ -21,7 +21,9 @@ public class Student {
 		System.out.println(s.course);
 		System.out.println(s);
 		System.out.println(s1.name);
-
+		System.out.println(s1.name);
+		System.out.println(s1.name);
+		System.out.println(s1.name);
 	}
 
 }
